@@ -14,3 +14,7 @@
 
 # [Project 4: Análisis descriptivo de inmuebles en Bogotá](https://github.com/luis-telesforo/DS_project4)
 * Como parte del curso[inmersión datos](https://www.aluracursos.com/inmersion-datos/) ofrecido por Alura Latam, realizamos un breve análisis descriptivo de una base de datos de inmuebles en Bogotá. 
+
+# [Project 5: Is any dataset adequate to to train a machine learning model](https://github.com/luis-telesforo/DS_project5)
+* This project was created in collaboration with the data scientist [Sebastián Martínez](https://sebastian-mtz.github.io/)
+*  
