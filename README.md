@@ -18,4 +18,4 @@
 # [Project 5: Is any dataset adequate to train a machine learning model](https://github.com/luis-telesforo/DS_project5)
 * This project was created in collaboration with the data scientist [Sebastián Martínez](https://sebastian-mtz.github.io/)
 * We explore a dataset of [UBER fares](https://www.kaggle.com/datasets/yasserh/uber-fares-dataset) retrieved from Kaggle.
-* Using Pearson correlation and Mutual Information we determine that this dataset is not enough to predict the fare amount of an UBER trip. Thus this task needs more information.
+* Using Pearson correlation and Mutual Information we determine that this dataset is not enough to predict the fare amount of an UBER trip. Thus this task needs more information if we want to solve it using machine learning.
