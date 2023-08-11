@@ -13,9 +13,9 @@
 * If we want to find the best model out of 1000 different models using a 5-fold cross validation we need to train 5000 models. Using a hypothesis test we only require to train 1000 models. Thus, we decrease computational costs by 80%.
 
 # [Project 4: Análisis descriptivo de inmuebles en Bogotá](https://github.com/luis-telesforo/DS_project4)
-* Como parte del curso[inmersión datos](https://www.aluracursos.com/inmersion-datos/) ofrecido por Alura Latam, realizamos un breve análisis descriptivo de una base de datos de inmuebles en Bogotá. 
+* Como parte del curso [inmersión datos](https://www.aluracursos.com/inmersion-datos/) ofrecido por Alura Latam, realizamos un breve análisis descriptivo de una base de datos de inmuebles en Bogotá. 
 
 # [Project 5: Is any dataset adequate to train a machine learning model](https://github.com/luis-telesforo/DS_project5)
 * This project was created in collaboration with the data scientist [Sebastián Martínez](https://sebastian-mr.github.io/)
 * We explore a dataset of [UBER fares](https://www.kaggle.com/datasets/yasserh/uber-fares-dataset) retrieved from Kaggle.
-* Using Pearson correlation and Mutual Information we determine that this dataset is not enough to predict the fare amount of an UBER trip. Thus this task needs more information if we want to solve it using machine learning.
+* Using Pearson correlation and Mutual Information we determine that this dataset is not enough to predict the fare amount of an UBER trip. Thus, this task needs more information if we want to solve it using machine learning.
